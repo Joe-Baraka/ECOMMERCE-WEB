@@ -2,9 +2,10 @@
 .shop-name h1{
     color: white;
     font-weight:30px ;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Audiowide", sans-serif;
     padding-top: 30px;
     padding-left: 30px;
+    color: rgb(54, 207, 54);
 
 }
 
@@ -15,7 +16,7 @@ nav ul li a {
 }
 
 nav{
-    background-color: dodgerblue;
+    background-color: rgb(75, 27, 165);
     
 }
 
